@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,400;8..144,500;8..144,600&display=swap');
+html {
+    font-family: 'Roboto Flex', sans-serif;
+}
+.aboutMe{
+    position: absolute;
+width: 359px;
+height: 73px;
+left: 80px;
+top: 100px;
+color: #8E2735;
+font-family:'Roboto Flex', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+}
+.myDetails{
+    position: absolute;
+    width: 835px;
+    height: auto;
+left: 80px;
+top: 204px;
+color: #333333;
+font-family:'Roboto Flex', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+}
+.background{
+    position: absolute;
+width: 1728px;
+height: 1197px;
+left: 0px;
+top: 0px;
+}
+.myPhotograph{
+    position: absolute;
+width: 690px;
+height: 702px;
+left: 958px;
+top: 160px;
+}
+
+
+
